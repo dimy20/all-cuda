@@ -1,7 +1,6 @@
 #include <ctime>
 #include <stdio.h>
 #include <time.h>
-#include <chrono>
 
 #define CUDA_CALL(f)                                                                     \
     {                                                                                    \
